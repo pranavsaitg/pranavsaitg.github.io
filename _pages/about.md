@@ -18,7 +18,7 @@ redirect_from:
 
 🏥 I'm currently completing a high school co-op placement in the Outpatient Pharmacy at Markham Stouffville Hospital
 
-# Be Sure to Check Out My CV 📄, Portfolio of Projects🧪, and Blog Posts on Medium.com✍🏾!
+# Be Sure to Check Out My CV 📄, Portfolio of Projects🧪, and Articles on Medium.com✍🏾!
 
 <!-- # A data-driven personal website
 
