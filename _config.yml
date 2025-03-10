@@ -10,6 +10,15 @@
 locale: "en-US"
 # site_theme: "default"
 remote_theme: mmistakes/minimal-mistakes
+plugins:
+  - jekyll-include-cache
+  - jekyll-archives
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jekyll-redirect-from
+  - jekyll-toc
 title: "Pranav's Homepage"
 title_separator: "-"
 name: &name "Pranav Sai Thava Ganesh"
