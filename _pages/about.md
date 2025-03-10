@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-[Illustration of Genetics and Technology](/images/Genetics.jpg) {: .align-right width="300px"}
+[Illustration of Genetics and Technology](/images/Genetics.jpg)
 🏫 I'm a Grade 11 Student at Bill Hogarth Secondary School.
 
 🔬 My research interests are in the intersection of genetics and cancer research, in addition to a desire to learn about bioinformatics and computer science.
